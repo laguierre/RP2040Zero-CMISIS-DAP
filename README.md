@@ -1,5 +1,5 @@
 # RP2040Zero-CMISIS-DAP
-CMSIS DAP using RP2040 Zero board. Original software from Pico Debug Probe.
+CMSIS DAP using RP2040 Zero board. Original software from Pico Debug Probe. ARM SWD compatible and CDC Virtual Serial Port. 
 For more information check oficial GIT.
 
 ## Debugprobe
