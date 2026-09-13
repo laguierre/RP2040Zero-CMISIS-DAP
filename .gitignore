@@ -1,6 +1,5 @@
 build/
 .ninja_*
-*.uf2
 *.elf
 *.bin
 *.hex
