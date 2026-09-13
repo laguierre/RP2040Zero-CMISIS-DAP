@@ -2,6 +2,9 @@
 CMSIS DAP using RP2040 Zero board. Original software from Pico Debug Probe. ARM SWD compatible and CDC Virtual Serial Port. 
 For more information check oficial GIT.
 
+<img width="1017" height="562" alt="Top" src="https://github.com/user-attachments/assets/6ce90264-bae1-4c1b-8c4f-aba75fb74e49" />
+
+
 ## Debugprobe
 
 Firmware source for the Raspberry Pi Debug Probe SWD/UART accessory. Can also be run on a Raspberry Pi Pico or Pico 2.
