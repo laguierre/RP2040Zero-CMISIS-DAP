@@ -1,4 +1,8 @@
-# Debugprobe
+# RP2040Zero-CMISIS-DAP
+CMSIS DAP using RP2040 Zero board. Original software from Pico Debug Probe.
+For more information check oficial GIT.
+
+## Debugprobe
 
 Firmware source for the Raspberry Pi Debug Probe SWD/UART accessory. Can also be run on a Raspberry Pi Pico or Pico 2.
 
